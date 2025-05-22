@@ -8,6 +8,13 @@ name = "pypi"
 pi-heif = "*"
 unstructured = "*"
 langchain-google-genai = "*"
+transformers = "*"
+pillow = "*"
+open-clip-torch = "*"
+torch = "*"
+matplotlib = "*"
+pymupdf = "*"
+langchain-experimental = "*"
 
 [dev-packages]
 ipykernel = "*"
